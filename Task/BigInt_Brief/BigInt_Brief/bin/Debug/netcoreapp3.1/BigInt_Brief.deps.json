@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BigInt_Brief/1.0.0": {
+        "runtime": {
+          "BigInt_Brief.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BigInt_Brief/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

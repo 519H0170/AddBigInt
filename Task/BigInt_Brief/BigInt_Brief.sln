@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigInt_Brief", "BigInt_Brief\BigInt_Brief.csproj", "{C931AE3E-F1F8-49B7-9CD9-59ED2E1D4B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C931AE3E-F1F8-49B7-9CD9-59ED2E1D4B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C931AE3E-F1F8-49B7-9CD9-59ED2E1D4B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C931AE3E-F1F8-49B7-9CD9-59ED2E1D4B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C931AE3E-F1F8-49B7-9CD9-59ED2E1D4B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFECBE3E-62A5-4F98-BDAC-DD6A1E744382}
+	EndGlobalSection
+EndGlobal

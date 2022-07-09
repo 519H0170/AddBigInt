@@ -1,0 +1,13 @@
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\bin\Debug\netcoreapp3.1\BigInt_Brief.exe
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\bin\Debug\netcoreapp3.1\BigInt_Brief.deps.json
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\bin\Debug\netcoreapp3.1\BigInt_Brief.runtimeconfig.json
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\bin\Debug\netcoreapp3.1\BigInt_Brief.runtimeconfig.dev.json
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\bin\Debug\netcoreapp3.1\BigInt_Brief.dll
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\bin\Debug\netcoreapp3.1\BigInt_Brief.pdb
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\obj\Debug\netcoreapp3.1\BigInt_Brief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\obj\Debug\netcoreapp3.1\BigInt_Brief.AssemblyInfoInputs.cache
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\obj\Debug\netcoreapp3.1\BigInt_Brief.AssemblyInfo.cs
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\obj\Debug\netcoreapp3.1\BigInt_Brief.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\obj\Debug\netcoreapp3.1\BigInt_Brief.dll
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\obj\Debug\netcoreapp3.1\BigInt_Brief.pdb
+C:\Users\MSI GAMING\Desktop\GitHub\BigInt\Task\BigInt_Brief\BigInt_Brief\obj\Debug\netcoreapp3.1\BigInt_Brief.genruntimeconfig.cache
