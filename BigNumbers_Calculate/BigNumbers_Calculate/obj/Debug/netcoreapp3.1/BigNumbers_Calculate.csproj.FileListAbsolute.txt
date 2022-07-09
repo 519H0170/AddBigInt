@@ -1,0 +1,14 @@
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.csproj.AssemblyReference.cache
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.AssemblyInfoInputs.cache
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.AssemblyInfo.cs
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\bin\Debug\netcoreapp3.1\BigNumbers_Calculate.exe
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\bin\Debug\netcoreapp3.1\BigNumbers_Calculate.deps.json
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\bin\Debug\netcoreapp3.1\BigNumbers_Calculate.runtimeconfig.json
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\bin\Debug\netcoreapp3.1\BigNumbers_Calculate.runtimeconfig.dev.json
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\bin\Debug\netcoreapp3.1\BigNumbers_Calculate.dll
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\bin\Debug\netcoreapp3.1\BigNumbers_Calculate.pdb
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.dll
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.pdb
+C:\Users\MSI GAMING\Desktop\Program\BigNumbers_Calculate\BigNumbers_Calculate\obj\Debug\netcoreapp3.1\BigNumbers_Calculate.genruntimeconfig.cache
