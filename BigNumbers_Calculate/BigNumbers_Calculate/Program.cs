@@ -11,6 +11,7 @@ namespace BigNumbers_Calculate
             // Input
             while (exit != "x")
             {
+                Console.Clear();
                 Console.WriteLine("Enter a & b:");
                 Console.Write("  a = ");
                 string a = Console.ReadLine();
